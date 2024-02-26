@@ -1,0 +1,12 @@
+```
+.input-label {
+	text-align: right;
+	line-height: 1.2;
+}
+
+@media only screen and (max-width : 992px) {
+.input-label {
+	text-align: left;
+	}
+}
+```
